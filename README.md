@@ -71,3 +71,10 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 - Compared KPIs before and after cleaning
 - Saved cleaned dataset for downstream SQL & analytics
 
+**Week 4 – Database Design & Ingest**
+
+Designed and implemented a star schema in MySQL (WAMP).
+Loaded cleaned retail data into a staging table and populated
+dimension and fact tables using SQL-based ETL.
+Validated data integrity by matching KPIs between staging
+and fact tables.
