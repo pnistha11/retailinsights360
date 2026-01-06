@@ -58,3 +58,16 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 - Validated KPI calculations using Python
 - Created detailed data dictionary
 - Documented business assumptions
+
+
+## Week 3 – Data Cleaning & Standardization
+
+- Removed duplicate records
+- Filtered cancelled orders (negative/zero quantity)
+- Fixed invalid sales values
+- Parsed and validated date columns
+- Standardized category, region, and country names
+- Created basic date features (year, month, day)
+- Compared KPIs before and after cleaning
+- Saved cleaned dataset for downstream SQL & analytics
+
