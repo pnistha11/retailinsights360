@@ -82,11 +82,8 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 
 ## **Week 5 – Core SQL Metrics & Analytics**
 
-Created reusable SQL views to calculate core business metrics
-including daily sales, product performance, customer lifetime
-value, and RFM customer segmentation. Developed parameterized
-queries for top-performing products and category-level trends,
-forming the analytical foundation for dashboards and forecasting.
+- Created reusable SQL views to calculate core business metrics including daily sales, product performance, customer lifetime value, and RFM customer segmentation.
+-  Developed parameterized queries for top-performing products and category-level trends, forming the analytical foundation for dashboards and forecasting.
 
 
 ## **Week 6 – Advanced Customer Analytics
