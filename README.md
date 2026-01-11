@@ -87,3 +87,11 @@ including daily sales, product performance, customer lifetime
 value, and RFM customer segmentation. Developed parameterized
 queries for top-performing products and category-level trends,
 forming the analytical foundation for dashboards and forecasting.
+
+
+## **Week 6 – Advanced Customer Analytics
+
+- Implemented advanced customer analytics using SQL, including RFM-based customer segmentation, cohort analysis for retention,
+and churn identification.
+-Created reusable views to classify customers into business segments and analyze customer behavior over time, enabling targeted marketing and retention strategies.
+
