@@ -86,7 +86,7 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 -  Developed parameterized queries for top-performing products and category-level trends, forming the analytical foundation for dashboards and forecasting.
 
 
-## **Week 6 – Advanced Customer Analytics
+## Week 6 – Advanced Customer Analytics
 
 - Implemented advanced customer analytics using SQL, including RFM-based customer segmentation, cohort analysis for retention,
 and churn identification.
