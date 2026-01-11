@@ -93,5 +93,5 @@ forming the analytical foundation for dashboards and forecasting.
 
 - Implemented advanced customer analytics using SQL, including RFM-based customer segmentation, cohort analysis for retention,
 and churn identification.
--Created reusable views to classify customers into business segments and analyze customer behavior over time, enabling targeted marketing and retention strategies.
+- Created reusable views to classify customers into business segments and analyze customer behavior over time, enabling targeted marketing and retention strategies.
 
