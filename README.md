@@ -15,7 +15,6 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 - Deliverable: EDA notebook
 
 
-
 # Data Dictionary – Sample Superstore
 
 ## Orders Dataset
@@ -49,7 +48,6 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 - Negative profit indicates loss
 
 
-
 ## Week 2 – Data Profiling & Business Requirements
 
 - Defined business problem and stakeholder goals
@@ -71,6 +69,7 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 - Compared KPIs before and after cleaning
 - Saved cleaned dataset for downstream SQL & analytics
 
+
 ## Week 4 – Database Design & Ingest
 
 - Designed star schema for analytics
@@ -86,9 +85,22 @@ End-to-end BI analytics project using SQL, Python, and Tableau
 -  Developed parameterized queries for top-performing products and category-level trends, forming the analytical foundation for dashboards and forecasting.
 
 
-## Week 6 – Advanced Customer Analytics
+## **Week 6 – Advanced Customer Analytics**
 
 - Implemented advanced customer analytics using SQL, including RFM-based customer segmentation, cohort analysis for retention,
 and churn identification.
 - Created reusable views to classify customers into business segments and analyze customer behavior over time, enabling targeted marketing and retention strategies.
 
+
+## **Week 7 — Time series prep & feature engineering**
+- Prepare data for time-series forecasting / ML models by:
+- Aggregating data (daily / weekly)
+- Creating calendar features
+- Adding lag & rolling features
+- Adding holiday & promo flags
+
+
+## **Week 8 — Forecasting Baseline**
+- Build simple baseline forecasting models
+- Compare them against a naive baseline
+- Evaluate using standard forecasting metrics
