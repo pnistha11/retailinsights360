@@ -104,3 +104,14 @@ and churn identification.
 - Build simple baseline forecasting models
 - Compare them against a naive baseline
 - Evaluate using standard forecasting metrics
+
+
+## ** Week 9 — Customer Lifetime Value (CLTV) & Retention Models*
+- Estimate customer lifetime value
+- Identify high-value vs low-value customers
+- Support retention and marketing strategies
+
+
+## **Week 10 - Recommender Prototype
+- Built a simple content-based product recommender using product metadata and cosine similarity to suggest similar items.
+- The prototype demonstrates how recommendation systems can enhance product discovery and cross-selling.
