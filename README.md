@@ -115,3 +115,22 @@ and churn identification.
 ## **Week 10 - Recommender Prototype
 - Built a simple content-based product recommender using product metadata and cosine similarity to suggest similar items.
 - The prototype demonstrates how recommendation systems can enhance product discovery and cross-selling.
+
+## **Week 11 — Dashboard Wireframes & Data Extracts
+### Objective
+- Plan dashboard layouts and prepare aggregated datasets for optimal Tableau performance.
+
+## Work Completed
+- Designed wireframes for:
+- Executive Dashboard
+- Product Dashboard
+- Customer Insights Dashboard
+- Forecast Dashboard
+- Created aggregated CSV extracts for Tableau.
+- Structured KPIs for consistent calculations.
+
+### Deliverables
+- Wireframe designs
+- Optimized data extracts
+
+
