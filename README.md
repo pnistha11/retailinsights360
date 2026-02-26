@@ -106,17 +106,17 @@ and churn identification.
 - Evaluate using standard forecasting metrics
 
 
-## ** Week 9 — Customer Lifetime Value (CLTV) & Retention Models**
+##  Week 9 — Customer Lifetime Value (CLTV) & Retention Models
 - Estimate customer lifetime value
 - Identify high-value vs low-value customers
 - Support retention and marketing strategies
 
 
-## **Week 10 - Recommender Prototype**
+## Week 10 - Recommender Prototype
 - Built a simple content-based product recommender using product metadata and cosine similarity to suggest similar items.
 - The prototype demonstrates how recommendation systems can enhance product discovery and cross-selling.
 
-## **Week 11 — Dashboard Wireframes & Data Extracts**
+## Week 11 — Dashboard Wireframes & Data Extracts
 - Plan dashboard layouts and prepare aggregated datasets for optimal Tableau performance.
 
 ## Week 12 — Executive & Product Dashboards
