@@ -106,31 +106,30 @@ and churn identification.
 - Evaluate using standard forecasting metrics
 
 
-## ** Week 9 — Customer Lifetime Value (CLTV) & Retention Models*
+## ** Week 9 — Customer Lifetime Value (CLTV) & Retention Models**
 - Estimate customer lifetime value
 - Identify high-value vs low-value customers
 - Support retention and marketing strategies
 
 
-## **Week 10 - Recommender Prototype
+## **Week 10 - Recommender Prototype**
 - Built a simple content-based product recommender using product metadata and cosine similarity to suggest similar items.
 - The prototype demonstrates how recommendation systems can enhance product discovery and cross-selling.
 
-## **Week 11 — Dashboard Wireframes & Data Extracts
-### Objective
+## **Week 11 — Dashboard Wireframes & Data Extracts**
 - Plan dashboard layouts and prepare aggregated datasets for optimal Tableau performance.
 
-## Work Completed
-- Designed wireframes for:
-- Executive Dashboard
-- Product Dashboard
-- Customer Insights Dashboard
-- Forecast Dashboard
-- Created aggregated CSV extracts for Tableau.
-- Structured KPIs for consistent calculations.
+## Week 12 — Executive & Product Dashboards
+- Build executive-level KPIs and product performance insights.
 
-### Deliverables
-- Wireframe designs
-- Optimized data extracts
+## Week 13 — Customer Insights Dashboard
+- Analyze customer value, segmentation, and churn risk.
+
+## Week 14 — Product Performance Dashboard
+- Evaluate product profitability and discount impact.
+
+## Week 15 — Forecast Dashboard
+- Visualize forecast accuracy and performance.
+
 
 
